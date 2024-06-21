@@ -1,0 +1,41 @@
+    OpenRGB v0.9
+    Commit:  from 
+    Launched: 20240611_141138
+====================================================================================================
+
+1003  |Info:    ------------------------------------------------------
+1003  |Info:    |               Start device detection               |
+1003  |Info:    ------------------------------------------------------
+1003  |Info:    Initializing HID interfaces: Success
+1009  |Info:    ------------------------------------------------------
+1009  |Info:    |             Detecting I2C interfaces               |
+1009  |Info:    ------------------------------------------------------
+1010  |Info:    Registering I2C interface: /dev/i2c-3 Device 10DE:2204 Subsystem: 10DE:147D
+1010  |Info:    Registering I2C interface: /dev/i2c-1 Device 10DE:2204 Subsystem: 10DE:147D
+1010  |Info:    Registering I2C interface: /dev/i2c-8 Device 1022:790B Subsystem: 1043:87C0
+1010  |Info:    Registering I2C interface: /dev/i2c-6 Device 1022:790B Subsystem: 1043:87C0
+1010  |Info:    Registering I2C interface: /dev/i2c-4 Device 10DE:2204 Subsystem: 10DE:147D
+1010  |Info:    Registering I2C interface: /dev/i2c-2 Device 10DE:2204 Subsystem: 10DE:147D
+1010  |Info:    Registering I2C interface: /dev/i2c-0 Device 10DE:2204 Subsystem: 10DE:147D
+1010  |Info:    Registering I2C interface: /dev/i2c-7 Device 1022:790B Subsystem: 1043:87C0
+1010  |Info:    Registering I2C interface: /dev/i2c-5 Device 10DE:2204 Subsystem: 10DE:147D
+1010  |Info:    ------------------------------------------------------
+1010  |Info:    |               Detecting I2C devices                |
+1010  |Info:    ------------------------------------------------------
+1039  |Info:    [HyperX Fury RGB] Registering RGB controller
+1994  |Info:    ------------------------------------------------------
+1994  |Info:    |               Detecting I2C PCI devices            |
+1994  |Info:    ------------------------------------------------------
+1994  |Info:    ------------------------------------------------------
+1994  |Info:    |               Detecting HID devices                |
+1994  |Info:    ------------------------------------------------------
+2069  |Info:    [ASUS TUF GAMING A520M-PLUS WIFI] Registering RGB controller
+2069  |Info:    ------------------------------------------------------
+2069  |Info:    |            Detecting libusb HID devices            |
+2069  |Info:    ------------------------------------------------------
+2100  |Info:    ------------------------------------------------------
+2100  |Info:    |              Detecting other devices               |
+2100  |Info:    ------------------------------------------------------
+2105  |Info:    ------------------------------------------------------
+2105  |Info:    |                Detection completed                 |
+2105  |Info:    ------------------------------------------------------

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/jacobpina/Pictures/Wallpapers/drool-l.svg",
+    "alpha": "100",
+    "special": {
+        "background": "#11603a",
+        "foreground": "#bc7bd3",
+        "cursor": "#bc7bd3"
+    },
+    "colors": {
+        "color0": "#11603a",
+        "color1": "#3EEC80",
+        "color2": "#482388",
+        "color3": "#53F0AA",
+        "color4": "#5BBB9B",
+        "color5": "#779CAD",
+        "color6": "#8392AC",
+        "color7": "#bc7bd3",
+        "color8": "#835693",
+        "color9": "#3EEC80",
+        "color10": "#482388",
+        "color11": "#53F0AA",
+        "color12": "#5BBB9B",
+        "color13": "#779CAD",
+        "color14": "#8392AC",
+        "color15": "#bc7bd3"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/jacobpina/Pictures/Wallpapers/Minimal/wp5444435-3440-wallpapers.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#101621",
+        "foreground": "#d6d7be",
+        "cursor": "#d6d7be"
+    },
+    "colors": {
+        "color0": "#101621",
+        "color1": "#867A6C",
+        "color2": "#7A8478",
+        "color3": "#8E8B79",
+        "color4": "#A69B7B",
+        "color5": "#9B9A83",
+        "color6": "#B3B18B",
+        "color7": "#d6d7be",
+        "color8": "#959685",
+        "color9": "#867A6C",
+        "color10": "#7A8478",
+        "color11": "#8E8B79",
+        "color12": "#A69B7B",
+        "color13": "#9B9A83",
+        "color14": "#B3B18B",
+        "color15": "#d6d7be"
+    }
+}

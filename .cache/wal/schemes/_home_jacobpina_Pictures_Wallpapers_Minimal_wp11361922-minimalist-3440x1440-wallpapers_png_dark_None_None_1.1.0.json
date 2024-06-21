@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/jacobpina/Pictures/Wallpapers/Minimal/wp11361922-minimalist-3440x1440-wallpapers.png",
+    "alpha": "100",
+    "special": {
+        "background": "#000000",
+        "foreground": "#e5ad7e",
+        "cursor": "#e5ad7e"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#7C4112",
+        "color2": "#813D19",
+        "color3": "#863C32",
+        "color4": "#9F5011",
+        "color5": "#96442C",
+        "color6": "#A64C26",
+        "color7": "#e5ad7e",
+        "color8": "#a07958",
+        "color9": "#7C4112",
+        "color10": "#813D19",
+        "color11": "#863C32",
+        "color12": "#9F5011",
+        "color13": "#96442C",
+        "color14": "#A64C26",
+        "color15": "#e5ad7e"
+    }
+}

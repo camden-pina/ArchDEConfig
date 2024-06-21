@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/jacobpina/Pictures/Wallpapers/Minimal/0pm4i5mk71ua1.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0b15",
+        "foreground": "#dfc0a3",
+        "cursor": "#dfc0a3"
+    },
+    "colors": {
+        "color0": "#0c0b15",
+        "color1": "#3C5361",
+        "color2": "#5C675E",
+        "color3": "#546665",
+        "color4": "#9E583A",
+        "color5": "#D7703E",
+        "color6": "#937448",
+        "color7": "#dfc0a3",
+        "color8": "#9c8672",
+        "color9": "#3C5361",
+        "color10": "#5C675E",
+        "color11": "#546665",
+        "color12": "#9E583A",
+        "color13": "#D7703E",
+        "color14": "#937448",
+        "color15": "#dfc0a3"
+    }
+}

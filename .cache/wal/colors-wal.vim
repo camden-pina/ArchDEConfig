@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/jacobpina/Pictures/Wallpapers/0pm4i5mk71ua1.png"
+let background = "#0A1117"
+let foreground = "#b9cdd0"
+let cursor     = "#b9cdd0"
+
+" Colors
+let color0  = "#0A1117"
+let color1  = "#36484F"
+let color2  = "#395664"
+let color3  = "#47595C"
+let color4  = "#51686B"
+let color5  = "#5E7B83"
+let color6  = "#75999F"
+let color7  = "#b9cdd0"
+let color8  = "#818f91"
+let color9  = "#36484F"
+let color10 = "#395664"
+let color11 = "#47595C"
+let color12 = "#51686B"
+let color13 = "#5E7B83"
+let color14 = "#75999F"
+let color15 = "#b9cdd0"

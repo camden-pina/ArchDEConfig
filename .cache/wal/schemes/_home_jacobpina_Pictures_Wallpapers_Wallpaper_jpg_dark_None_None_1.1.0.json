@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/jacobpina/Pictures/Wallpapers/Wallpaper.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#111725",
+        "foreground": "#cadce5",
+        "cursor": "#cadce5"
+    },
+    "colors": {
+        "color0": "#111725",
+        "color1": "#6F99AF",
+        "color2": "#7AA6BB",
+        "color3": "#7EABC0",
+        "color4": "#81ACBF",
+        "color5": "#85B0C4",
+        "color6": "#9DC2D6",
+        "color7": "#cadce5",
+        "color8": "#8d9aa0",
+        "color9": "#6F99AF",
+        "color10": "#7AA6BB",
+        "color11": "#7EABC0",
+        "color12": "#81ACBF",
+        "color13": "#85B0C4",
+        "color14": "#9DC2D6",
+        "color15": "#cadce5"
+    }
+}

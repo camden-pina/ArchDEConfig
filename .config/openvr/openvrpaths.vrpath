@@ -1,0 +1,14 @@
+{
+  "config": [
+    "/home/jacobpina/.local/share/Steam/config"
+  ],
+  "external_drivers": [],
+  "jsonid": "vrpathreg",
+  "log": [
+    "/home/jacobpina/.local/share/Steam/logs"
+  ],
+  "runtime": [
+    "/home/jacobpina/.local/share/Steam/steamapps/common/SteamVR"
+  ],
+  "version": 1
+}

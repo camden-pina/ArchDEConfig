@@ -1,0 +1,24 @@
+# -----------------------------------------------------
+# Autostart
+# -----------------------------------------------------
+
+# Launch Waybar
+exec-once = ./dotfiles/waybar/launch.sh
+
+# Launch OpenRGB
+exec-once = openrgb --startminimized --profile Off
+
+# Set Undervolt for CPU
+exec-once = sudo amdctl -m -p0 -v84
+
+# Restore Last Set Wallpaper 
+exec-once = swww init && swww restore
+
+# Restore Custom Color Scheme from Wal
+exec-once = wal -R
+
+# Start Hypridle
+exec-once = hypridle
+
+# Start Polkit Auth Agent
+exec-once = /usr/lib/polkit-kde-authencation-agent-1

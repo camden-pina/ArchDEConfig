@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/jacobpina/Pictures/Wallpapers/Screenshot_2022-04-26_222228.png",
+    "alpha": "100",
+    "special": {
+        "background": "#6c3d46",
+        "foreground": "#c9e9de",
+        "cursor": "#c9e9de"
+    },
+    "colors": {
+        "color0": "#6c3d46",
+        "color1": "#A4CBB8",
+        "color2": "#CFDEBA",
+        "color3": "#EFC9B4",
+        "color4": "#81BFC4",
+        "color5": "#90D3CA",
+        "color6": "#A2DEC9",
+        "color7": "#c9e9de",
+        "color8": "#8ca39b",
+        "color9": "#A4CBB8",
+        "color10": "#CFDEBA",
+        "color11": "#EFC9B4",
+        "color12": "#81BFC4",
+        "color13": "#90D3CA",
+        "color14": "#A2DEC9",
+        "color15": "#c9e9de"
+    }
+}

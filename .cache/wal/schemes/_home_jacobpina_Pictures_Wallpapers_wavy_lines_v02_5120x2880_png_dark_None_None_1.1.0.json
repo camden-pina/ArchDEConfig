@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/jacobpina/Pictures/Wallpapers/wavy_lines_v02_5120x2880.png",
+    "alpha": "100",
+    "special": {
+        "background": "#6d3c4a",
+        "foreground": "#f3bcba",
+        "cursor": "#f3bcba"
+    },
+    "colors": {
+        "color0": "#6d3c4a",
+        "color1": "#B042A7",
+        "color2": "#C94A8B",
+        "color3": "#DE6F90",
+        "color4": "#0482BF",
+        "color5": "#0194C2",
+        "color6": "#00A8C6",
+        "color7": "#f3bcba",
+        "color8": "#aa8382",
+        "color9": "#B042A7",
+        "color10": "#C94A8B",
+        "color11": "#DE6F90",
+        "color12": "#0482BF",
+        "color13": "#0194C2",
+        "color14": "#00A8C6",
+        "color15": "#f3bcba"
+    }
+}

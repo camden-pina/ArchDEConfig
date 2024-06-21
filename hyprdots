@@ -1,0 +1,52 @@
+#!/bin/bash
+
+# Create variable to hold list of packages to be installed
+packages=$(<./packages.txt)
+
+# Update system
+sudo pacman -Syu --noconfirm
+
+# Install necessary base development tools and Git
+sudo pacman -S --needed base-devel git --noconfirm
+
+# Create and copy all files into tmp work directory
+mkdir $HOME/tmp
+cp -r $HOME/Hyprdots/. $HOME/tmp/
+cd $HOME/tmp
+
+# Clone Yay repository and install yay
+git clone https://aur.archlinux.org/yay.git
+cd yay
+makepkg -si --noconfirm
+cd ..
+
+# Install software to setup computer
+yay -S $packages --nocomfirm
+
+# Copy .config to local system
+cp -r .config/. $HOME/.config/
+
+# Copy fonts to local system
+sudo cp -r fonts/. /usr/share/fonts/
+
+# Copy .scripts folder
+cp -r .scripts $HOME/
+
+# Copy .cache folder for wal
+cp -r .cache/. $HOME/.cache
+
+# Copy .local folder
+cp -r .local/share/. $HOME/.local/share
+
+# Copy .zshrc to home directory
+cp .zshrc $HOME/
+
+#Change default shell to zsh
+sudo chsh -s /bin/zsh
+
+# Clean up tmp directory
+cd $HOME/
+sudo rm -rf $HOME/tmp
+
+# Reboot to apply changes
+echo "PLEASE LOOK AT README BEFORE REBOOTING"

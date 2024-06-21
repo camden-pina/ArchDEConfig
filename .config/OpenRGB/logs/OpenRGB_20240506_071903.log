@@ -1,0 +1,41 @@
+    OpenRGB v0.9
+    Commit:  from 
+    Launched: 20240506_071903
+====================================================================================================
+
+1002  |Info:    ------------------------------------------------------
+1002  |Info:    |               Start device detection               |
+1002  |Info:    ------------------------------------------------------
+1002  |Info:    Initializing HID interfaces: Success
+1006  |Info:    ------------------------------------------------------
+1006  |Info:    |             Detecting I2C interfaces               |
+1006  |Info:    ------------------------------------------------------
+1006  |Info:    Registering I2C interface: /dev/i2c-3 Device 10DE:2489 Subsystem: 1458:405E
+1007  |Info:    Registering I2C interface: /dev/i2c-1 Device 10DE:2489 Subsystem: 1458:405E
+1007  |Info:    Registering I2C interface: /dev/i2c-6 Device 1022:790B Subsystem: 1043:87C0
+1007  |Info:    Registering I2C interface: /dev/i2c-4 Device 10DE:2489 Subsystem: 1458:405E
+1007  |Info:    Registering I2C interface: /dev/i2c-2 Device 10DE:2489 Subsystem: 1458:405E
+1007  |Info:    Registering I2C interface: /dev/i2c-0 Device 10DE:2489 Subsystem: 1458:405E
+1007  |Info:    Registering I2C interface: /dev/i2c-7 Device 1022:790B Subsystem: 1043:87C0
+1007  |Info:    Registering I2C interface: /dev/i2c-5 Device 1022:790B Subsystem: 1043:87C0
+1007  |Info:    ------------------------------------------------------
+1007  |Info:    |               Detecting I2C devices                |
+1007  |Info:    ------------------------------------------------------
+1038  |Info:    [HyperX Fury RGB] Registering RGB controller
+2010  |Info:    ------------------------------------------------------
+2010  |Info:    |               Detecting I2C PCI devices            |
+2010  |Info:    ------------------------------------------------------
+2184  |Info:    [Gigabyte RTX3060 Ti Gaming OC PRO 8G LHR] Registering RGB controller
+2184  |Info:    ------------------------------------------------------
+2184  |Info:    |               Detecting HID devices                |
+2184  |Info:    ------------------------------------------------------
+2261  |Info:    [ASUS TUF GAMING A520M-PLUS WIFI] Registering RGB controller
+2261  |Info:    ------------------------------------------------------
+2261  |Info:    |            Detecting libusb HID devices            |
+2261  |Info:    ------------------------------------------------------
+2298  |Info:    ------------------------------------------------------
+2298  |Info:    |              Detecting other devices               |
+2298  |Info:    ------------------------------------------------------
+2310  |Info:    ------------------------------------------------------
+2310  |Info:    |                Detection completed                 |
+2310  |Info:    ------------------------------------------------------

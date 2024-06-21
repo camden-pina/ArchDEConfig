@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/jacobpina/Pictures/Wallpapers/variety-copied-wallpaper-eff0b467fce9a0293022899705046e67.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#150b0e",
+        "foreground": "#ebe6e7",
+        "cursor": "#ebe6e7"
+    },
+    "colors": {
+        "color0": "#150b0e",
+        "color1": "#D1B0B3",
+        "color2": "#DFC1BE",
+        "color3": "#D5BDC2",
+        "color4": "#E1BEC1",
+        "color5": "#D9C9CC",
+        "color6": "#E6D2D3",
+        "color7": "#ebe6e7",
+        "color8": "#a4a1a1",
+        "color9": "#D1B0B3",
+        "color10": "#DFC1BE",
+        "color11": "#D5BDC2",
+        "color12": "#E1BEC1",
+        "color13": "#D9C9CC",
+        "color14": "#E6D2D3",
+        "color15": "#ebe6e7"
+    }
+}
