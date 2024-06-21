@@ -21,7 +21,7 @@ makepkg -si --noconfirm
 cd ..
 
 # Install software to setup computer
-yay -S $packages --nocomfirm
+yay -S $packages --noconfirm
 
 # Copy .config to local system
 cp -r .config/. $HOME/.config/
