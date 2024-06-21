@@ -11,7 +11,7 @@ sudo pacman -S --needed base-devel git --noconfirm
 
 # Create and copy all files into tmp work directory
 mkdir $HOME/tmp
-cp -r $HOME/Hyprdots/. $HOME/tmp/
+cp -r $HOME/ArchDEConfig/. $HOME/tmp/
 cd $HOME/tmp
 
 # Clone Yay repository and install yay
